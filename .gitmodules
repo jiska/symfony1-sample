@@ -4,3 +4,6 @@
 [submodule "web/css/bootstrap"]
 	path = web/css/bootstrap
 	url = git://github.com/twitter/bootstrap.git
+[submodule "plugins/jpFormExtraPlugin"]
+	path = plugins/jpFormExtraPlugin
+	url = git://github.com/brtriver/jpFormExtraPlugin.git
